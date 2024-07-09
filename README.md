@@ -1,4 +1,4 @@
 # Emoji
-> Student Name:
+> Student Name: Jasleen Singh
 >
-> Student Number:
+> Student Number: 041102877
